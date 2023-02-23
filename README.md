@@ -1,6 +1,11 @@
 # md-workshop-1
 image segmentation python without openCV
 
+# Integrantes:
+
+### Bryan Pantoja
+### Issa Barake
+
 # REMEMBER TO DO `npm install`
 
 ### to run this code use `vs code` or your preffered debugger
