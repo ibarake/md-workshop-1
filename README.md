@@ -3,8 +3,8 @@ image segmentation python without openCV
 
 # REMEMBER TO DO `npm install`
 
-# to run this code use `vs code` or your preffered debugger
+### to run this code use `vs code` or your preffered debugger
 or in command line navigate to your repo folder and do ``$ python main.py``
 
-# to change image change file `coins.png`in folder
+### to change image change file `coins.png`in folder
 image must be png and black backgrounded
